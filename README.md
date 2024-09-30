@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on personal proyects and study
 - 🌱 I’m currently learning veu.js
 
-- 📫 Reach me at [my email](javicalongem@gmail.com)
+- 📫 Reach me at [my email](mailto:javicalongem@gmail.com)
 - 💻 See my work at [my Github Repositories](https://github.com/JaviCalonge?tab=repositories)
   <br>
   <br>
