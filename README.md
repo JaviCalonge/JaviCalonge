@@ -2,6 +2,8 @@
 
 - 🔭 I’m currently working on personal proyects and study
 - 🌱 I’m currently learning veu.js
+- 💻 See my work at [my Github pages](https://javicalonge.github.io/) ⚠️WIP
+- 📫 Or reach me at [my email](javicalongem@gmail.com)
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javicalonge&show_icons=true&locale=en&layout=compact" alt="javicalonge" /></p>
 
