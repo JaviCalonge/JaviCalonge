@@ -4,6 +4,11 @@
 - 🌱 I’m currently learning veu.js
 
 - 📫 Reach me at [my email](javicalongem@gmail.com)
+  <br>
+  <br>
+  <br>
+  <br>
+  
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=javicalonge&show_icons=true&locale=en&layout=compact" alt="javicalonge" /></p>
 
