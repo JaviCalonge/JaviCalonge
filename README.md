@@ -1,6 +1,6 @@
 ## Hi, I am Javi Calonge 👋
 
-- 🔭 I’m currently working on personal proyects and study
+- 🔭 I’m currently working on personal projects and study
 - 🌱 I’m currently learning veu.js
 
 - 📫 Reach me at [my email](mailto:javicalongem@gmail.com)
