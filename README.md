@@ -1,7 +1,7 @@
 ## Hi, I am Javi Calonge 👋
 
 - 🔭 I’m currently working on personal projects and study
-- 🌱 I’m currently learning veu.js
+- 🌱 I’m currently learning PHP
 
 - 📫 Reach me at [my email](mailto:javicalongem@gmail.com)
 - 💻 See my work at [my Github Repositories](https://github.com/JaviCalonge?tab=repositories)
